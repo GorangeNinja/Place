@@ -3,4 +3,4 @@ A timelapse visualization of /r/place
 
 You need to unzip the place.zip file.
 
-![Demo](http://i.imgur.com/DmQ4d8F.gif)
+![Demo](https://github.com/GorangeNinja/Place/blob/master/test%20(1).gif?raw=true)
